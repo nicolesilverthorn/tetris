@@ -1,0 +1,64 @@
+.title
+{
+	width: 79vh;
+	text-align: right;
+}
+
+h
+{
+	font-family: "Jura";
+	color: white;
+	font-size: 2em;
+}
+
+.btn
+{
+	font-family: "Jura";
+	font-size: 21px;
+	font-weight: bold;
+	margin-top: 10px;
+	border-radius: 5px;
+	box-shadow: 3px 3px 5px rgba(255, 255, 255, 0.2);
+}
+
+.controls 
+{
+	position: relative;
+	top: 25px;
+	font-family: "Jura";
+	font-size: 14px;
+	line-height: 8px;
+	color: white;
+}
+
+.mobileButtons
+{
+	position: absolute;
+	left: 25%;
+	bottom: 0;
+}
+
+#upBtn
+{
+	
+}
+
+#leftBtn
+{
+	
+}
+
+#downBtn
+{
+	bottom: 50px;
+}
+
+#rightBtn
+{
+	
+}
+
+#spaceBtn
+{
+	
+}
